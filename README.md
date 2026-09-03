@@ -97,6 +97,3 @@ Change these credentials before using the application anywhere public.
 - `PUT /api/applications/:id`
 - `DELETE /api/applications/:id`
 
-## DevOps phase
-
-Dockerfiles, Compose networking, database persistence, EC2 deployment, security groups, and image optimization are intentionally not included yet.
